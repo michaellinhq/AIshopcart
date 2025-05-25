@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 购物跟随车 / 个人助理机器人
 
 ## 项目简介
@@ -76,3 +77,7 @@
 ---
 
 > 本项目适合机器人、嵌入式、计算机视觉等方向的学习与实践。欢迎在GitHub上Fork、改进和交流！ 
+=======
+# AIshopcart
+ build an intelligent four-wheel-drive following cart. It will autonomously identify and follow its user, feature smart obstacle avoidance, and integrate a height-adjustable loading platform for convenient item transport during shopping
+>>>>>>> bfdfecfbcd134c1737aad6e030559e2e9351a319
